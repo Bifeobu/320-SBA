@@ -17,6 +17,7 @@ function Location() {
 
     return (
         <div>
+            <Navbar/>
             <h1>Rick and Morty Locations</h1>
         </div>
     )
