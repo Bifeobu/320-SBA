@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar() {
 
     return(
-        <div class="navbar">
+        <div className="navbar">
             <nav>
                 <Link to={"/"}>
                     <div>Home</div>
